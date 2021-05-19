@@ -1,0 +1,217 @@
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\bin\Debug\devDept.CustomControls.dll
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\bin\Debug\devDept.CustomControls.pdb
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.CustomControls.dll
+C:\Users\admin\Documents\Eyeshot Ultimate 12 Samples\WinForms\EyeshotDemo\CSharp\CustomControls\obj\Debug\devDept.CustomControls.pdb
+D:\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.dll
+D:\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.pdb
+D:\ElectricProject\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+D:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+D:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+D:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+D:\ElectricProject\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+D:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+D:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+D:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+D:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+D:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+D:\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+D:\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+D:\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+D:\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+D:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+D:\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+D:\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+D:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.dll
+D:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.pdb
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.pdb
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.pdb
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.pdb
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.pdb
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.dll
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.pdb
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.dll
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.pdb
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.dll
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.pdb
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.dll
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.pdb
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.dll
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.pdb
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.dll
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.pdb
+E:\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.dll
+E:\ElectricProject\CustomControls\bin\Debug\devDept.CustomControls.pdb
+E:\ElectricProject\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+E:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+E:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+E:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+E:\ElectricProject\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+E:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+E:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+E:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+E:\ElectricProject\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+E:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+E:\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+E:\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+E:\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+E:\ElectricProject\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+E:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+E:\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+E:\ElectricProject\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+E:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.dll
+E:\ElectricProject\CustomControls\obj\Debug\devDept.CustomControls.pdb
+E:\Cannon-Project\CustomControls\bin\Debug\devDept.CustomControls.dll
+E:\Cannon-Project\CustomControls\bin\Debug\devDept.CustomControls.pdb
+E:\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+E:\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+E:\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+E:\Cannon-Project\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+E:\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+E:\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+E:\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+E:\Cannon-Project\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+E:\Cannon-Project\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls.dll
+E:\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls.pdb
+D:\Cong viec\Du an\Cannon-Project\CustomControls\bin\Debug\devDept.CustomControls.dll
+D:\Cong viec\Du an\Cannon-Project\CustomControls\bin\Debug\devDept.CustomControls.pdb
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.g.cs
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.g.cs
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.g.cs
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.cache
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls_MarkupCompile.lref
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\ImportFileAddOn.baml
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\OpenFileAddOn.baml
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\Controls\FileDialogs\SaveFileAddOn.baml
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls.g.resources
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.Controls.WinForms.FileDialogControlBase.resources
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.Controls.WinForms.ImportFileAddOn.resources
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.Controls.WinForms.OpenFileAddOn.resources
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.Controls.WinForms.SaveFileAddOn.resources
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls.Properties.Resources.resources
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls.dll
+D:\Cong viec\Du an\Cannon-Project\CustomControls\obj\Debug\devDept.CustomControls.pdb

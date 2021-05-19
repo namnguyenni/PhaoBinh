@@ -1,0 +1,9 @@
+﻿<wpfCustomFileDialog:ControlAddOnBase x:Class="devDept.Controls.Wpf.ImportFileAddOn"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:wpfCustomFileDialog="clr-namespace:devDept.Controls.Wpf"
+             Height="385" Width="200" VerticalAlignment="Stretch" Loaded="Control_Loaded" Background="{x:Static SystemColors.ControlBrush}">
+    <Grid>
+        <CheckBox x:FieldModifier="public" Name="yAxisUpCb" Content="Geometry in 'Y Axis Up'" HorizontalAlignment="Right" Margin="0,350,10,10" Width="160" Checked="yAxisUpCb_Checked"/>
+    </Grid>
+</wpfCustomFileDialog:ControlAddOnBase>

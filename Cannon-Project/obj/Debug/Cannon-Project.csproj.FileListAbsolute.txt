@@ -1,0 +1,78 @@
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\bin\Debug\Cannon-Project.exe.config
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\bin\Debug\Cannon-Project.exe
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\bin\Debug\Cannon-Project.pdb
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csprojAssemblyReference.cache
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.Properties.Resources.resources
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.GenerateResource.cache
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.CopyComplete
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.exe
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.pdb
+C:\Users\Nguyen Nam\source\repos\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.PDFView.MainForm.resources
+E:\Cannon-Project\Cannon-Project\bin\Debug\Cannon-Project.exe.config
+E:\Cannon-Project\Cannon-Project\bin\Debug\Cannon-Project.exe
+E:\Cannon-Project\Cannon-Project\bin\Debug\Cannon-Project.pdb
+E:\Cannon-Project\Cannon-Project\bin\Debug\EyeshotDemo.exe
+E:\Cannon-Project\Cannon-Project\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+E:\Cannon-Project\Cannon-Project\bin\Debug\devDept.Geometry.v12.dll
+E:\Cannon-Project\Cannon-Project\bin\Debug\devDept.Graphics.Win.v12.dll
+E:\Cannon-Project\Cannon-Project\bin\Debug\devDept.CustomControls.dll
+E:\Cannon-Project\Cannon-Project\bin\Debug\devDept.Graphics.Shaders.v12.dll
+E:\Cannon-Project\Cannon-Project\bin\Debug\EyeshotDemo.pdb
+E:\Cannon-Project\Cannon-Project\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+E:\Cannon-Project\Cannon-Project\bin\Debug\devDept.Geometry.v12.xml
+E:\Cannon-Project\Cannon-Project\bin\Debug\devDept.Graphics.Win.v12.xml
+E:\Cannon-Project\Cannon-Project\bin\Debug\devDept.CustomControls.pdb
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csprojAssemblyReference.cache
+E:\Cannon-Project\Cannon-Project\obj\Debug\VideoView\VideoControl.g.cs
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project_MarkupCompile.cache
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project_MarkupCompile.lref
+E:\Cannon-Project\Cannon-Project\obj\Debug\VideoView\VideoControl.baml
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.g.resources
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.Form1.resources
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.LoginFrm.resources
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.Main.resources
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.PDFView.MainForm.resources
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.Properties.Resources.resources
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.GenerateResource.cache
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.CoreCompileInputs.cache
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.CopyComplete
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.exe
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.pdb
+E:\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.ResolveComReference.cache
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\Cannon-Project.exe.config
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\Cannon-Project.exe
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\Cannon-Project.pdb
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\devDept.CustomControls.dll
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\EyeshotDemo.exe
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\devDept.Geometry.v12.dll
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\devDept.Graphics.Win.v12.dll
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\devDept.Graphics.Shaders.v12.dll
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\devDept.CustomControls.pdb
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\EyeshotDemo.pdb
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\devDept.Geometry.v12.xml
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\devDept.Graphics.Win.v12.xml
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csprojAssemblyReference.cache
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.ResolveComReference.cache
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\VideoView\VideoControl.g.cs
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project_MarkupCompile.cache
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project_MarkupCompile.lref
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\VideoView\VideoControl.baml
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.g.resources
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.Form1.resources
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.LoginFrm.resources
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.Main.resources
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.PDFView.MainForm.resources
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon_Project.Properties.Resources.resources
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.GenerateResource.cache
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.CoreCompileInputs.cache
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.csproj.CopyComplete
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.exe
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\obj\Debug\Cannon-Project.pdb
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Cong viec\Du an\Cannon-Project\Cannon-Project\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml

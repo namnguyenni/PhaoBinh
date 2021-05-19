@@ -1,0 +1,19 @@
+﻿<wpfCustomFileDialog:ControlAddOnBase x:Class="devDept.Controls.Wpf.SaveFileAddOn"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:wpfCustomFileDialog="clr-namespace:devDept.Controls.Wpf"
+             Height="385" Width="200" VerticalAlignment="Stretch" Loaded="Control_Loaded" Background="{x:Static SystemColors.ControlBrush}">
+    <Grid VerticalAlignment="Bottom" Margin="10,0,10,15" Height="186">
+        <CheckBox Content="Selected Only" Name="SelectedOnlyCb" Click="SelectedOnlyCb_OnClick" HorizontalAlignment="Right" Margin="0,0,10,140"  Width="160"/>
+        <CheckBox Content="Purge" Name="PurgeCb" Click="PurgeCb_OnClick" HorizontalAlignment="Right" Margin="0,25,10,140"  Width="160"/>
+        <GroupBox Header="Content" VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="110" Margin="0,0,5,25" >
+            <Grid>
+                <RadioButton Name="GeometryRb" Checked="GeometryRb_OnChecked" Content="Geometry" HorizontalAlignment="Left" Margin="5,10,0,0" VerticalAlignment="Top"/>
+                <RadioButton Name="TessellationRb" Checked="TessellationRb_OnChecked" Content="Tessellation" HorizontalAlignment="Left" Margin="5,35,0,0" VerticalAlignment="Top"/>
+                <RadioButton Name="GeomAndTessRb" IsChecked="True" Checked="GeomAndTessRb_OnChecked" Content="Geometry and Tessellation" HorizontalAlignment="Left" Margin="5,60,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <CheckBox Content="Compress" Name="CompressCb" Click="CompressCb_OnClick" HorizontalAlignment="Right" Margin="0,165,10,0" Width="160"/>
+    </Grid>
+</wpfCustomFileDialog:ControlAddOnBase>
+

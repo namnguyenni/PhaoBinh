@@ -1,0 +1,152 @@
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csprojAssemblyReference.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Form1.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.DetailsForm.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.GenerateResource.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.CoreCompileInputs.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.exe
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.pdb
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.exe
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.pdb
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Shaders.v12.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.pdb
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.xml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.xml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\Full Module\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.CopyComplete
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.exe
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.pdb
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Shaders.v12.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.dll
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.pdb
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.xml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.xml
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csprojAssemblyReference.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Form1.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.DetailsForm.resources
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.GenerateResource.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.CoreCompileInputs.cache
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.CopyComplete
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.exe
+D:\Folder Nam\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.pdb
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.exe
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.pdb
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.dll
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.dll
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Shaders.v12.dll
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.dll
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.pdb
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.xml
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.xml
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csprojResolveAssemblyReference.cache
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Form1.resources
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.DetailsForm.resources
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.GenerateResource.Cache
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.exe
+F:\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.pdb
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.exe
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.pdb
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.dll
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.dll
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Shaders.v12.dll
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.dll
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.pdb
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.xml
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.xml
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csprojResolveAssemblyReference.cache
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Form1.resources
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.DetailsForm.resources
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.GenerateResource.Cache
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.exe
+E:\Job Project\Phan mem dien dan dung\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.pdb
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.exe
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.pdb
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.dll
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.dll
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Shaders.v12.dll
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.dll
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.pdb
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.xml
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.xml
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csprojAssemblyReference.cache
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Form1.resources
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.DetailsForm.resources
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.GenerateResource.cache
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.CoreCompileInputs.cache
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.CopyComplete
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.exe
+D:\Cong viec\Du an\form menu\form menu\form menu\bin\Debug\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.pdb
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.dll
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.dll
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.exe
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\EyeshotDemo.pdb
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.dll
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Shaders.v12.dll
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\devDept.CustomControls.pdb
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\devDept.Graphics.Win.v12.xml
+D:\Work\ElectricProject\EyeshotDemo\bin\Debug\devDept.Geometry.v12.xml
+D:\Work\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csprojAssemblyReference.cache
+D:\Work\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Form1.resources
+D:\Work\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Work\ElectricProject\EyeshotDemo\obj\Debug\WindowsApplication1.DetailsForm.resources
+D:\Work\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.GenerateResource.cache
+D:\Work\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.CoreCompileInputs.cache
+D:\Work\ElectricProject\EyeshotDemo\obj\Debug\Read3D.csproj.CopyComplete
+D:\Work\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.exe
+D:\Work\ElectricProject\EyeshotDemo\obj\Debug\EyeshotDemo.pdb
+E:\Cannon-Project\Read3D\bin\Debug\EyeshotDemo.exe
+E:\Cannon-Project\Read3D\bin\Debug\EyeshotDemo.pdb
+E:\Cannon-Project\Read3D\bin\Debug\devDept.CustomControls.dll
+E:\Cannon-Project\Read3D\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+E:\Cannon-Project\Read3D\bin\Debug\devDept.Geometry.v12.dll
+E:\Cannon-Project\Read3D\bin\Debug\devDept.Graphics.Win.v12.dll
+E:\Cannon-Project\Read3D\bin\Debug\devDept.CustomControls.pdb
+E:\Cannon-Project\Read3D\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+E:\Cannon-Project\Read3D\bin\Debug\devDept.Geometry.v12.xml
+E:\Cannon-Project\Read3D\obj\Debug\Read3D.csprojAssemblyReference.cache
+E:\Cannon-Project\Read3D\obj\Debug\WindowsApplication1.Form1.resources
+E:\Cannon-Project\Read3D\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\Cannon-Project\Read3D\obj\Debug\WindowsApplication1.DetailsForm.resources
+E:\Cannon-Project\Read3D\obj\Debug\Read3D.csproj.GenerateResource.cache
+E:\Cannon-Project\Read3D\obj\Debug\Read3D.csproj.CoreCompileInputs.cache
+E:\Cannon-Project\Read3D\obj\Debug\Read3D.csproj.CopyComplete
+E:\Cannon-Project\Read3D\obj\Debug\EyeshotDemo.exe
+E:\Cannon-Project\Read3D\obj\Debug\EyeshotDemo.pdb
+D:\Cong viec\Du an\Cannon-Project\Read3D\bin\Debug\EyeshotDemo.exe
+D:\Cong viec\Du an\Cannon-Project\Read3D\bin\Debug\EyeshotDemo.pdb
+D:\Cong viec\Du an\Cannon-Project\Read3D\bin\Debug\devDept.CustomControls.dll
+D:\Cong viec\Du an\Cannon-Project\Read3D\bin\Debug\devDept.Eyeshot.Control.Win.v12.dll
+D:\Cong viec\Du an\Cannon-Project\Read3D\bin\Debug\devDept.Geometry.v12.dll
+D:\Cong viec\Du an\Cannon-Project\Read3D\bin\Debug\devDept.Graphics.Win.v12.dll
+D:\Cong viec\Du an\Cannon-Project\Read3D\bin\Debug\devDept.CustomControls.pdb
+D:\Cong viec\Du an\Cannon-Project\Read3D\bin\Debug\devDept.Eyeshot.Control.Win.v12.xml
+D:\Cong viec\Du an\Cannon-Project\Read3D\bin\Debug\devDept.Geometry.v12.xml
+D:\Cong viec\Du an\Cannon-Project\Read3D\obj\Debug\Read3D.csprojAssemblyReference.cache
+D:\Cong viec\Du an\Cannon-Project\Read3D\obj\Debug\WindowsApplication1.Form1.resources
+D:\Cong viec\Du an\Cannon-Project\Read3D\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Cong viec\Du an\Cannon-Project\Read3D\obj\Debug\WindowsApplication1.DetailsForm.resources
+D:\Cong viec\Du an\Cannon-Project\Read3D\obj\Debug\Read3D.csproj.GenerateResource.cache
+D:\Cong viec\Du an\Cannon-Project\Read3D\obj\Debug\Read3D.csproj.CoreCompileInputs.cache
+D:\Cong viec\Du an\Cannon-Project\Read3D\obj\Debug\Read3D.csproj.CopyComplete
+D:\Cong viec\Du an\Cannon-Project\Read3D\obj\Debug\EyeshotDemo.exe
+D:\Cong viec\Du an\Cannon-Project\Read3D\obj\Debug\EyeshotDemo.pdb
